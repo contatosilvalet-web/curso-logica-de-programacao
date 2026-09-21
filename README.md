@@ -31,3 +31,11 @@
 #### VERIFICAÇÃO FINAL: Use um valor decimal e confirme que dobro, triplo e metade foram calculados sempre a partir da entrada original.
 
 # Curso freeCodeCamp 
+
+### Bot de perguntas e respostas   
+### Chatbot para professores   
+### Formatador de Strings   
+### Gerador de frases   
+### Inspetor de strings   
+### Markdown   
+### Transformador de Strings
