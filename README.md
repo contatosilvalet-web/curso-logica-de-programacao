@@ -28,4 +28,6 @@
 #### Leia um número real e mostre o dobro, o triplo e a metade dessse valor.
 #### Exemplos: 12, 8, 2,5 e -4.
 
-#### VERIFICAÇÃO FINAL: Use um valor decimal e confirme que dobro, triplo e metade foram calculados sempre a partir da entrada original. 
+#### VERIFICAÇÃO FINAL: Use um valor decimal e confirme que dobro, triplo e metade foram calculados sempre a partir da entrada original.
+
+# Curso freeCodeCamp 
