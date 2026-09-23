@@ -1,0 +1,32 @@
+let counter = 10;
+console.log(`Counter is currently ${counter}`);
+
+let updatedCounter = ++counter;
+console.log(`Counter is now ${updatedCounter}`);
+
+let score = 8;
+console.log(`Score is currently ${score}`);
+
+let finalScore = score++;
+console.log(`Score is still ${finalScore}`);
+
+let coins = 3;
+console.log(`Coins is currently ${coins}`);
+
+let updatedCoins = --coins;
+console.log(`Coins is now ${updatedCoins}`);
+
+let health = 7;
+console.log(`Health is currently ${health}`);
+
+let newHealth = health--;
+console.log(`Health is still ${newHealth}`);
+
+/* Counter is currently 10
+Counter is now 11
+Score is currently 8
+Score is still 8
+Coins is currently 3
+Coins is now 2
+Health is currently 7
+Health is still 7 */
